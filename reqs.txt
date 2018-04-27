@@ -1,0 +1,67 @@
+  126  pip install numpy scipy matplotlib scikit-image scikit-learn ipython
+  127  pip
+  128  pip install numpy scipy matplotlib scikit-image scikit-learn ipython
+  129  pip install --upgrade pip'
+  130  pip install --upgrade pip
+  169  sudo apt-get install python-dev python-pip python3-dev python3-pip
+  170  sudo -H pip3 install -U pip numpy
+  171  sudo -H pip2 install -U pip numpy
+  301  sudo pip2 install virtualenv virtualenvwrapper
+  302  sudo pip3 install virtualenv virtualenvwrapper
+  460  pip3 install torch torchvision
+  461  pip3 install imageio
+  462  pip3 install ssd
+  463  pip3 install data
+  464  pip3 uninstall data
+  465  pip3 uninstall ssd
+  466  pip install datashape
+  467  pip3 install  ffmpeg
+  468  pip3 install ffmpeg
+  515  pip3 install universe
+  519  pip3 install 'gym[all]'
+  520  sudo -h pip3 install 'gym[all]'
+  521  sudo  pip3 install 'gym[all]'
+  522  sudo -H  pip3 install 'gym[all]'
+  524  sudo -H  pip3 install universe
+  526  sudo -H  pip3 install 'gym[all]'
+  527  sudo -H pip3 install launchpadlib
+  528  sudo -H  pip3 install 'gym[all]'
+  545  pip install gym
+  546  pip install --upgrade pip
+  547  pip install install 'gym[all]'
+  548  pip  install 'gym[all]'
+  549  sudo -h pip install gym
+  550  sudo -H pip3 install gym
+  551  pip show universe gym tensorflow numpy go-vncdriver Pillow
+  552  sudo -H pip install --upgrade pip
+  553  sudo -H pip3 install --upgrade pip
+  554  pip3 show universe gym tensorflow numpy go-vncdriver Pillow
+  556  pip3 show universe gym tensorflow numpy go-vncdriver Pillow
+  557  sudo -H pip3 install gym
+  559  sudo -H  pip3 install numpy incremental
+  561  pip install universe
+  562  sudo -h pip3 install universe
+  563  sudo -H pip3 install universe
+  565  sudo -H pip3 install universe
+  567  history|grep pip
+  569  pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl
+  570  pip3 install torchvision
+  572  pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl
+  573  pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.0-cp36-cp36m-linux_x86_64.whl
+  574  pip3 install matplotlib
+  575  pip install Cython==0.27.3
+  576  pip install kivy
+  577  pip install Cython==0.27.3
+  578  pip install kivy
+  579  pip uninstall Cython==0.27.3
+  580  pip uninstall Cython
+  581  pip install Cython
+  582  pip install kivy
+  583  pip uninstall Cython
+  584  pip uninstall Cython==0.26.1
+  585  pip install Cython==0.26.1
+  586  pip install kivy
+  587  pip install pygame
+  588  pip3 uninstall http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl
+  589  pip3 uninstall torchvision
+  590  pip install http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp36-cp36m-manylinux1_x86_64.whl
